@@ -1,2 +1,2 @@
-# jsDev-enviroment
+# jsDev-environment
 Javascript development environment
