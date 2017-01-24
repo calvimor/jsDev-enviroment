@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/calvimor/jsDev-environment.svg?branch=master)](https://travis-ci.org/calvimor/jsDev-environment)
+
 # jsDev-environment
 Javascript development environment
 
